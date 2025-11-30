@@ -10,12 +10,11 @@ The objective was to strengthen my defensive security skills and implement a fun
 
 ### 🏗️ Lab Setup & Architecture
 
-### 🔹 Components
-- **Wazuh Manager** — SIEM & HIDS  
-- **Wazuh Agents** — Host log collection & monitoring  
-- **Suricata** — Network IDS  
-- **Kali Linux VM** — Attack simulation  
-- **Virtualization Platform** — VMware / VirtualBox  
+- **Wazuh Manager** —> SIEM & HIDS  
+- **Wazuh Agents** —> Host log collection & monitoring  
+- **Suricata** —> Network IDS  
+- **Kali Linux VM** —>  Attack simulation  
+- **Virtualization Platform** —> VMware / VirtualBox  
 
 ### ✔️ Completed Work
 
