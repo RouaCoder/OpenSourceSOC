@@ -3,6 +3,27 @@
 This repository presents the project I completed during my cybersecurity internship at Attijari Bank, where I deployed a host-based and network-based intrusion detection environment using open-source tools.  
 The objective was to strengthen my defensive security skills and implement a functional monitoring pipeline capable of detecting common attack techniques.
 
+# 🛡️ Open-Source SOC Monitoring Environment
+
+<p align="center">
+
+  <!-- Project Identity -->
+  <img src="https://img.shields.io/badge/🛡️%20SOC%20Monitoring-Internship%20Project-8A2BE2?style=for-the-badge" alt="SOC Project">
+
+  <!-- Virtual Machines -->
+  <img src="https://img.shields.io/badge/Windows%2010-Victim%20Machine-0078D6?style=for-the-badge&logo=windows" alt="Windows 10 VM">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Attacker%20Machine-557C94?style=for-the-badge&logo=kalilinux" alt="Kali Linux VM">
+
+  <!-- Tools Used -->
+  <img src="https://img.shields.io/badge/Wazuh-SIEM%20HIDS-1E90FF?style=for-the-badge&logo=wazuh" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Suricata-NIDS-FF6600?style=for-the-badge&logo=suricata" alt="Suricata">
+
+  <!-- Category & Status -->
+  <img src="https://img.shields.io/badge/Category-Cybersecurity%20Lab-green?style=for-the-badge" alt="Category">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
+
+</p>
+
 
 
 ### 🚀 Project Scope
