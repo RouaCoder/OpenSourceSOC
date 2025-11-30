@@ -3,6 +3,8 @@
 This repository presents the project I completed during my cybersecurity internship at Attijari Bank, where I deployed a host-based and network-based intrusion detection environment using open-source tools.  
 The objective was to strengthen my defensive security skills and implement a functional monitoring pipeline capable of detecting common attack techniques.
 
+---
+
 ## 🚀 Project Scope
 
 ### ✔️ Completed Work
@@ -21,6 +23,8 @@ This SOC foundation integrates two core components:
 - Packet inspection and alert generation
 - Validation using simulated attacks from Kali Linux
 
+---
+
 ### 🧪 Testing & Validation
 
 Several controlled attack scenarios were launched from a Kali Linux VM to evaluate detection accuracy, including:
@@ -29,6 +33,8 @@ Several controlled attack scenarios were launched from a Kali Linux VM to evalua
 - Host-level event triggering (authentication failures, file modifications)
 
 **Results:** Wazuh + Suricata provided clear, actionable alerts, demonstrating strong detection capabilities in a lab environment.
+
+---
 
 ### 🔮 Future Enhancements (Planned)
 
@@ -39,6 +45,8 @@ Although not implemented in this internship due to scope and time constraints, t
 - **SOAR automation**: Integration of playbooks for automated response actions.
 
 These enhancements would transform the monitoring environment into a complete SOC ecosystem.
+
+---
 
 ## 🎯 Skills Gained
 - Defensive monitoring & intrusion detection
