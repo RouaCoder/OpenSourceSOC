@@ -18,7 +18,7 @@ The objective was to strengthen my defensive security skills and implement a fun
 
  ## 🗺️ SOC Lab Topology
 
-![SOC Lab Topology](images/topology.png)
+![SOC Lab Topology](images/soc-topo.png)
 
 
 ### ✔️ Completed Work
