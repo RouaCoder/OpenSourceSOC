@@ -7,7 +7,7 @@ The objective was to strengthen my defensive security skills and implement a fun
 
 ## 🚀 Project Scope
 
----
+
 ## 🏗️ Lab Setup & Architecture
 
 ### 🔹 Components
