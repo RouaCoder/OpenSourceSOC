@@ -37,7 +37,7 @@ This SOC foundation integrates two core components:
 - Packet inspection and alert generation
 - Validation using simulated attacks from Kali Linux
 
----
+
 
 ## 🧪 Testing & Validation
 
@@ -47,7 +47,7 @@ This SOC foundation integrates two core components:
 
 **Results:** Wazuh + Suricata provided clear, actionable alerts, demonstrating strong detection capabilities in a lab environment.
 
----
+
 
 ## 🔮 Future Enhancements (Planned)
 
@@ -59,7 +59,6 @@ This SOC foundation integrates two core components:
 
 These enhancements would transform the monitoring environment into a complete SOC ecosystem.
 
----
 
 ## 🎯 Skills Gained
 - Defensive monitoring & intrusion detection
