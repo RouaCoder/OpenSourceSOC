@@ -3,7 +3,7 @@
 This repository presents the project I completed during my cybersecurity internship at Attijari Bank, where I deployed a host-based and network-based intrusion detection environment using open-source tools.  
 The objective was to strengthen my defensive security skills and implement a functional monitoring pipeline capable of detecting common attack techniques.
 
----
+
 
 ## 🚀 Project Scope
 
