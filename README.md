@@ -21,7 +21,7 @@ The objective was to strengthen my defensive security skills and implement a fun
 ![SOC Lab Topology](images/soc-topo.png)
 
 
-### ✔️ Completed Work
+## ✔️ Completed Work
 
 This SOC foundation integrates two core components:
 
