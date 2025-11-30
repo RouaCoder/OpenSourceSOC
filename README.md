@@ -15,7 +15,7 @@ The objective was to strengthen my defensive security skills and implement a fun
 - **Suricata** —> Network IDS  
 - **Kali Linux VM** —>  Attack simulation  
 - **Virtualization Platform** —> VMware / VirtualBox
-
+---
  ### 🗺️ SOC Lab Topology
 
 ![SOC Lab Topology](images/topology.png)
