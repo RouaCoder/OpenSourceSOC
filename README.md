@@ -7,6 +7,16 @@ The objective was to strengthen my defensive security skills and implement a fun
 
 ## 🚀 Project Scope
 
+---
+## 🏗️ Lab Setup & Architecture
+
+### 🔹 Components
+- **Wazuh Manager** — SIEM & HIDS  
+- **Wazuh Agents** — Host log collection & monitoring  
+- **Suricata** — Network IDS  
+- **Kali Linux VM** — Attack simulation  
+- **Virtualization Platform** — VMware / VirtualBox  
+
 ### ✔️ Completed Work
 
 This SOC foundation integrates two core components:
