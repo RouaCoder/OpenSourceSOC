@@ -39,7 +39,7 @@ This SOC foundation integrates two core components:
 
 ---
 
-### 🧪 Testing & Validation
+## 🧪 Testing & Validation
 
 - Network scans (Nmap)
 - Suspicious traffic injections
@@ -49,7 +49,7 @@ This SOC foundation integrates two core components:
 
 ---
 
-### 🔮 Future Enhancements (Planned)
+## 🔮 Future Enhancements (Planned)
 
 - Foundation for a full SOC (not implemented during internship)  
 - **TheHive:** Incident response and case management  
