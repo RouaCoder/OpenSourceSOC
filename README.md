@@ -24,7 +24,6 @@ This SOC foundation integrates two core components:
 ### 🧪 Testing & Validation
 
 Several controlled attack scenarios were launched from a Kali Linux VM to evaluate detection accuracy, including:
-- DoS attempts
 - Network scans (Nmap)
 - Suspicious traffic injections
 - Host-level event triggering (authentication failures, file modifications)
