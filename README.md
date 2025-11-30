@@ -38,11 +38,11 @@ Several controlled attack scenarios were launched from a Kali Linux VM to evalua
 
 ### 🔮 Future Enhancements (Planned)
 
-Although not implemented in this internship due to scope and time constraints, this project lays the foundation for a full-featured SOC. Future improvements may include:
-- **TheHive — Incident Response Platform**: Centralized case management and structured investigation workflows.
-- **Cortex — Automated Analysis**: Execution of analyzers and responders to automate repetitive tasks.
-- **MISP — Threat Intelligence**: Enrichment of alerts using community and organizational threat intelligence feeds.
-- **SOAR automation**: Integration of playbooks for automated response actions.
+- Foundation for a full SOC (not implemented during internship)  
+- **TheHive:** Incident response and case management  
+- **Cortex:** Automated analysis and task execution  
+- **MISP:** Threat intelligence enrichment  
+- **SOAR:** Automated response playbooks
 
 These enhancements would transform the monitoring environment into a complete SOC ecosystem.
 
